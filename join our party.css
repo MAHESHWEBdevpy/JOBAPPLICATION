@@ -1,0 +1,42 @@
+form{
+	border: 2px solid;
+	padding: 20px;
+	width: 300px;
+	margin: 0 auto;
+}
+lable{
+	display: block;
+	margin-bottom: 20px;
+
+}
+input[type="text"],
+input[type="email"],
+select,
+text area{
+	width: 100%;
+	padding: 5px;
+	border-radius: 4px;
+	border: 1px solid;
+	margin-bottom: 20px;
+	font-size: 16px;
+
+}
+input[type="radio"]{
+	margin-right: 10px;
+}
+a{
+	background-color: black;
+	color: yellow;
+	padding: 8px 15px;
+	text-decoration: none;
+}
+body{
+	background-color:yellow;
+}
+.heading{
+  text-align: center;
+  color:red;
+  font-weight: 800;
+  font-size: 3rem;
+  background-color: gold;
+}

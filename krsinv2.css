@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: 'poppins',sans-serif;
+	background-color: yellow;
+}
+h1{
+	background-color:gold;
+	text-align: center;
+	padding: 4%;
+}
+.section{
+	width: 100%;
+	min-height: 100vh;
+	background-color: white;
+	background-color: yellow;
+
+
+}
+
+
+.container{
+	width: 80%;
+	display: block;
+	margin: auto;
+	padding-top: 100px;
+	background-color: yellow;
+	
+}
+.content-section{
+	float: left;
+	width: 55%;
+
+}
+.image-section{
+	float: right;
+	width: 40%;
+}
+.image-section img{
+	width: 100%;
+	height: 350px;
+}
+.content-section .title{
+	text-transform: uppercase;
+	font-size: 28px;
+
+
+}
+.content-section .content h3{
+	margin-top: 20px;
+	color: black;
+	font-size: 30px;
+	font-family: 'poppins',sans-serif;
+	font-weight: 500;
+
+}
+.content-section .content p{
+	margin-top: 10px;
+	font-family: sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+	font-family: 'poppins',sans-serif;
+	
+}
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: 'poppins',sans-serif;
+}
+.section1{
+	width: 100%;
+	min-height: 100vh;
+	background-color: yellow;
+
+
+
+}
+
+
+.container1{
+	width: 90%;
+	display: block;
+
+	margin: auto;
+	margin-top: -160px;
+
+}
+.content-section1{
+	float: right;
+	width: 60%;
+
+
+}
+.image-section1{
+	float: left;
+	width: 40%;
+}
+.image-section1 img{
+	width: 105%;
+	height: auto;
+	margin-left: 70px;
+
+
+}
+.content-section1 .title1{
+	text-transform: uppercase;
+	font-size: 28px;
+	margin-left: 150px;
+
+
+}
+.content-section1 .content1 h3{
+	margin-top:20px;
+	color: black;
+	font-size: 30px;
+	margin-left:20px ;
+}
+.content-section1 .content1 p{
+	margin-top: 10px;
+	font-family: sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+	margin-left: 20px;
+}
+.button{
+	padding: 10%;
+}
+
+body{
+	font-family: 'poppins',sans-serif;
+	b
+}
+.leader{
+	display:inline-flex;
+	align-items: center;
+	justify-content: center;
+	margin: 3rem;
+}
